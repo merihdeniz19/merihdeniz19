@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+My name is Merih Deniz Toruner and I'm a junior at Brown University, studying Computational Biology, Computer Science track in the Program in Liberal Medical Education (PLME) program. I'm especially interested in applying machine learning and big data analysis to my oncology research. I'm currently working on deep learning models in epigenetics research and biomedical engineering approaches in Glioblastoma Multiforme (GBM). 
+
 <!--
 **merihdeniz19/merihdeniz19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
